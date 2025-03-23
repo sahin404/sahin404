@@ -63,7 +63,7 @@
 </p>
 
 ## 👨‍💻 Projects:
-All of my projects are available at https://sahin-portfolio.vercel.app
+All of my projects are available at https://sahin-portfolio.vercel.app/projects
 
 ## 📊 GitHub Statistics:
  <p align="center">
