@@ -1,9 +1,9 @@
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=500&height=50&size=30&lines=Hi👋+I'm+Md+Sahin+Alam..;MERN+Stack+Developer;Nice+To+Meet+You+....&center=true"></a></p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=500&height=50&size=30&lines=Hi👋+I'm+Md+Sahin+Alam..;Full+Stack+Developer;Nice+To+Meet+You+....&center=true"></a></p>
     
 ## 👨‍💻 About Me:
-<p align="justify">I am a versatile MERN Stack Developer with a passion for both web development and competitive programming. My expertise lies in React, Tailwind CSS, and JavaScript, crafting seamless and user-friendly interfaces. On the backend, I am proficient in Node.js, Express.js, and MongoDB, ensuring scalable and efficient solutions.</p>
+<p align="justify">I am a versatile Full Stack Developer with a passion for both web development and competitive programming. My expertise lies in React, Tailwind CSS, and JavaScript, crafting seamless and user-friendly interfaces. On the backend, I am proficient in Node.js, Express.js, and MongoDB, ensuring scalable and efficient solutions.</p>
     
 ## 🖥️ Technical Skills: 
 <p align="left">
