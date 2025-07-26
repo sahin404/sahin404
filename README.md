@@ -65,10 +65,4 @@
 ## 👨‍💻 Projects:
 All of my projects are available at https://sahin-portfolio.vercel.app
 
-## 📊 GitHub Statistics:
- <p align="center">
-   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahin404&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact"/><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sahin404&include_all_commits=true&theme=radical&border=false&count_private=true"/>
-</p>
 <br/>
