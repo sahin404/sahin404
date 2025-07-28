@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=500&height=50&size=30&lines=Hi👋+I'm+Md+Sahin+Alam..;Full+Stack+Developer;Competitive+Programmer+....&center=true"></a></p>
     
 ## 👨‍💻 About Me:
-<p align="justify">I’m a Full Stack Developer skilled in React, Next.js, Tailwind, Redux, Zustand, and TypeScript. I build scalable web apps using Node.js, Express, MongoDB, and SQL. Passionate about clean UI, efficient backend logic, and solving real-world problems through code.</p>
+<p align="justify">I’m a Full Stack Developer skilled in React, Next.js, Tailwind, Redux and Zustand. I build scalable web apps using Node.js, Express, MongoDB, and SQL. Passionate about clean UI, efficient backend logic, and solving real-world problems through code.</p>
     
 ## 🖥️ Technical Skills: 
 <p align="left">
