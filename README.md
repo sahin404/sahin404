@@ -33,10 +33,10 @@ I’m passionate about creating clean, scalable solutions and continuously learn
 <p align="center">
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=sahin404&theme=nightowl" alt="Sahin Alam streak badge"/>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahin404&theme=tokyonight" alt="Top languages by repo badge"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahin404&theme=tokyonight" alt="General stats badge"/>
-</p>
+</p> -->
 
 ---
 
