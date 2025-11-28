@@ -4,19 +4,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9C27B0&height=160&section=header&text=Md.%20Sahin%20Alam&fontSize=45&fontColor=ffffff"/>
 
-<a href="https://github.com/sahin404">
-  <img src="https://komarev.com/ghpvc/?username=sahin404&color=ff0059&style=for-the-badge" alt="Profile Views" />
-</a>
-
-<br/><br/>
+<br/>
 
 ### 🟣 **FULL STACK DEVELOPER**
 
 <p align="center" style="max-width: 600px; font-size: 15px;">
-  <b>A Full Stack Developer and problem solver with over 900 challenges solved across various online judges.</b><br/>
-  I build full stack web applications using React, Next.js, and Node.js, focusing on writing efficient and maintainable code.<br/>
-  Passionate about creating clean, scalable solutions and continuously learning new technologies to tackle real-world problems.
+  <b>A Full Stack Developer and problem solver with strong knowledge of modern web technologies and data structures.</b><br/>
+  I enjoy building scalable, efficient, and clean applications. Writing maintainable code is a core principle in my workflow.<br/>
+  As a quick learner, I adapt to new technologies fast and continuously improve my skills to build better solutions.
 </p>
+
 
 </div>
 
@@ -43,6 +40,7 @@
 
 <br/>
 
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -97,6 +95,16 @@
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
+</div>
+
+<br/>
+
+<!-- ============================ PROFILE VIEWS (BOTTOM) ============================ -->
+
+<div align="center">
+  <a href="https://github.com/sahin404">
+    <img src="https://komarev.com/ghpvc/?username=sahin404&color=ff0059&style=for-the-badge" alt="Profile Views" />
+  </a>
 </div>
 
 <br/>
