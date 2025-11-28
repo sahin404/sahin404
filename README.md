@@ -10,8 +10,8 @@
 
 <p align="center" style="max-width: 600px; font-size: 15px;">
   <b>A Full Stack Developer and problem solver with strong knowledge of modern web technologies and data structures.</b><br/>
-  I enjoy building scalable, efficient, and clean applications. Writing maintainable code is a core principle in my workflow.<br/>
-  As a quick learner, I adapt to new technologies fast and continuously improve my skills to build better solutions.
+  I enjoy building scalable, efficient, and clean applications and writing maintainable code is a core principle in my workflow.<br/>
+  As a quick learner, I adapt to new technologies fast and continuously improve my skills to deliver better solutions.
 </p>
 
 
